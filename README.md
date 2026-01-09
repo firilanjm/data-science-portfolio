@@ -1,6 +1,6 @@
-# Portfolio – Firila Najma
+# Portfolio – Firila Najma Wahidah
 
-Welcome! This repository contains selected data science and applied analytics projects demonstrating my skills in statistical inference, machine learning, and data-driven problem solving.
+Welcome! This repository contains selected data science, applied analystics and software design projects demonstrating my skills in statistical inference, machine learning, and data-driven problem solving.
 
 ## 🔍 Projects
 
