@@ -1,0 +1,14 @@
+{"expenses": [
+    {
+        "date": "2024-11-12",
+        "amount": 800,
+        "category": "HOME",
+        "desc": "rent"
+    },
+    {
+        "date": "2024-01-15",
+        "amount": 9.5,
+        "category": "OTHER",
+        "desc": "coffee"
+    }
+]}

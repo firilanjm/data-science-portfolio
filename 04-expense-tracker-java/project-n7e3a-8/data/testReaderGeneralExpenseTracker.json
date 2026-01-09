@@ -1,0 +1,16 @@
+{
+    "expenses": [
+        {
+            "desc": "grocery",
+            "amount": 200,
+            "category": "FOOD",
+            "date": "2024-10-31"
+        },
+        {
+            "desc": "rent",
+            "amount": 700,
+            "category": "HOME",
+            "date": "2024-12-10"
+        }
+    ]
+}

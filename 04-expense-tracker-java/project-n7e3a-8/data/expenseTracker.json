@@ -1,0 +1,20 @@
+{"expenses": [
+    {
+        "date": "2024-10-11",
+        "amount": 40,
+        "category": "OTHER",
+        "desc": "ticket"
+    },
+    {
+        "date": "2024-04-09",
+        "amount": 20,
+        "category": "FOOD",
+        "desc": "chocolate"
+    },
+    {
+        "date": "2025-10-12",
+        "amount": 1000,
+        "category": "HOME",
+        "desc": "housing"
+    }
+]}
