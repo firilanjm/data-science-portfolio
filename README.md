@@ -1,4 +1,4 @@
-# Data Science Portfolio – Firila Najma
+# Portfolio – Firila Najma
 
 Welcome! This repository contains selected data science and applied analytics projects demonstrating my skills in statistical inference, machine learning, and data-driven problem solving.
 
@@ -34,6 +34,15 @@ Welcome! This repository contains selected data science and applied analytics pr
 
 ---
 
+### 4. Personal Expense Tracker (Java GUI)
+**Focus:** Applied analytics tooling, software engineering  
+- Built a desktop GUI application using Java Swing to manage personal expenses  
+- Implemented filtering, tabular visualization, and event logging  
+- Demonstrates ability to build user-facing data tools  
+
+📂 Folder: `04-expense-tracker-java`
+
+---
 
 ## 📫 Contact
 - GitHub: https://github.com/firilanjm
